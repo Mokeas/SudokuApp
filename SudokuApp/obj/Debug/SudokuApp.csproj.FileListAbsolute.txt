@@ -1,0 +1,10 @@
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\bin\Debug\SudokuApp.exe.config
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\bin\Debug\SudokuApp.exe
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\bin\Debug\SudokuApp.pdb
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.csprojResolveAssemblyReference.cache
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.Form1.resources
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.Properties.Resources.resources
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.csproj.GenerateResource.Cache
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.csproj.CoreCompileInputs.cache
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.exe
+C:\Users\Dan\MFF\Programovani\CSharp_DotNet\ZapoctovyProgram\SudokuApp\SudokuApp\obj\Debug\SudokuApp.pdb
