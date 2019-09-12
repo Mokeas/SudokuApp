@@ -1,0 +1,7 @@
+Dan Raffl
+specifikace zápoètového programu k pøedmìtu Programování v C# a platformì .NET
+LS 2018
+
+Sudoku aplikace
+
+Cílem programu je hezká Sudoku aplikace naprogramovaná v jazyku .NET. Hlavní èástí by byl algoritmus na øešení Sudoku. Algoritmus bude stejný jako když Sudoku øeší èlovìk - tedy pomyslnì má každé políèko 9 hodnot a postupnì hodnoty vyluèováním odstraòujeme, než nezbude jediná hodnota, kterou lze doplnit -kombinovaný s backtrackingem. Backtracking je obecnì pomalý, ale vyøeší každou jednoznaènì doplnitelnou Sudoku - tento nedostatek lze øešit zapnutím pouze v pøípadì, kdy si "lidský" algoritmus neví dál rady. Dále by program obsahoval grafické uživatelské rozhraní, aby si èlovìk Sudoku mohl sám vyøešit, pøidat vlastní Sudoku, nechat si vygenerovat Sudoku, nechat si poradit další krok èi si nechat celou Sudoku vyøešit (algoritmem zmínìným výše). Složitá záležitost je generování Sudoku dané obtížnosti, protože neplatí, že èím více èísel se odstraní, tím je Sudoku složitìjší. Nicménì implementace dobrého generování Sudoku je netriviální, proto bych zùstal u øešení triviálnìjšího a zkrátka odstranil na základì složitosti náhodný poèet políèek v daném rozmezí podle uživatelem zvolené nároènosti. 
